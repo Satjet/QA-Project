@@ -35,6 +35,7 @@ Check Tasks:        CRUD, Create, Read, Update, & Delete
                     Read = Home Page & Recipe, 
                     Update / Refresh Webpage for next Recipe, 
                     Delete = Old receipes
+                    
                     MosCoW, 
                     Must Have = Code must work after Pipeline build and test to deploy.
                     Should Have = Must have 4 pages on web = Chef and 3 recipes.
