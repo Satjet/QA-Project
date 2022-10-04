@@ -28,7 +28,19 @@ Database Task:       My SQL
                      Recipe, Ingredients required,                         
                      Method with photo of finished item.
 
-Check Tasks:         CRUD, MosCoW, CI (Build, Test Deploy)
+Check Tasks:         CRUD, Create, Read, Update, & Delete
+                     Create= Front end website, Read = Home Page & Recipe, Update / Refresh = Webpage for nest Recipe, Delete = Logout
+                     
+                     MosCoW, 
+                     Must Have = Code must work after Pipeline build and test to deploy.
+                     Should Have = Must have 4 pdf's on webpage of Chef and 3 recipes.
+                     Could Have = Choice of non-veg and veg recipes
+                     Won't Have Time = Add in video of meal being cooked to show Method and use of ingredients.
+                     
+                     CI CD (Build, Test Deploy) Run on Jenkins
+                     
+
+        
 
 
 
