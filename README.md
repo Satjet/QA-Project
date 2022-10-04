@@ -2,7 +2,7 @@
 
 ## Link up Chef to Recipe (Mind Map diagram in preview)
 
-Project is to link up a Celebrity Chef with one of three receipes for the user to select (Working in Git / GitHub)
+Project is to link up a Celebrity Chef with choice of 3 receipes for the user to select (Working in Git / GitHub)
 
 ## Front End:  
 
@@ -10,7 +10,7 @@ Project is to link up a Celebrity Chef with one of three receipes for the user t
 
 ## Web Task:           
 
-* Home Page:-				Information on Chef, 
+* Home Page:-	    Information on Chef, 
 * Page 1 Recipe:-   Aloo : Papeta Par Eeda, 
 * Page 2 Recipe:-   Masala Chana, 
 * Page 3 Recipe:-   Caesar’s Salad 
@@ -18,10 +18,9 @@ Project is to link up a Celebrity Chef with one of three receipes for the user t
 
 ## Back End Tasks:     
 	
-* Set up 3 X Azure VM with same Resourse Name.
-* VM1 (Master Load Barrier), 
-* VM2 (Manager Node), 
-* VM3 (Worker Node).
+* Set up 2 X Azure VM with same Resourse Name.
+* VM 1 (Manager Node), 
+* VM 2 (Worker Node).
 
 ## Install the VM's with following:
          
@@ -34,27 +33,27 @@ Project is to link up a Celebrity Chef with one of three receipes for the user t
 
 ## Database Task:      
 												
-* SQLlite 
-* Task: Store hyperlink description of the 3 recipes that will be pulled by the user to showing
-* Prep time
+* SQLlite3
+* Store hyperlink description of the 3 recipes that can be pulled by the user showing
+* Prepartion time,
 * Ingredients required,
-* Method with photo of finished item, 
-* Addition Task: 
-* User information to stored on database.
+* Method
+* Photo of finished item, 
+* Addition Task: User information to stored on database.
 
 ## Check Tasks:      
 
 * CRUD, (Create, Read, Update, & Delete)
-* Create= Front end website, 
-* Read = Home Page & Recipe, 
-* Update / Refresh Webpage for next Recipe, 
-* Delete = Old receipes
+* Create = 	Front end website, 
+* Read = 	Home Page & Recipe, 
+* Update = 	Refresh Webpage for next Recipe, 
+* Delete = 	Old receipes
 
 * MosCoW, 
-* Must Have = Code must work after Pipeline build and test to deploy.
-* Should Have = Must have 4 pages on web = Chef and 3 recipes.
-* Could Have = Choice of non-veg and veg recipes
-* Won't Have Time = Add in cooking utencils required for each recipe
+* Must Have = 		Code must work after Pipeline build and test to deploy.
+* Should Have = 	Must have 4 pages on web = Chef and 3 recipes.
+* Could Have = 		Choice of non-veg and veg recipes
+* Won't Have Time = 	Add in cooking utencils required for each recipe
                     
  ## Build Tasks:       
  						
