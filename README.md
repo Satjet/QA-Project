@@ -17,27 +17,29 @@ Back End Tasks:     Set up 3 X Azure VM
                      upload VM's with:
                      Linux, 
                      Python with Flask, 
-                     Docker Compose, 
+                     Docker,
                      Port Numbers with same resource group 
-                     Putty or Bash, 
+                     Visual Studio Code
                      Jenkins CI CD Pipeline
 
-Database Task:       My SQL 
-                     Task: Store the 3 recipes that can be pulled by the user 
-                     in a pdf image formatt where the user will be able to see 
+Database Task:       SQLlite 
+                     Task: Store as description (the 3 recipes that can be pulled by the user 
+                     BY hyperlink where the user will be able to see 
                      Recipe, Ingredients required,                         
-                     Method with photo of finished item.
+                     Method with photo of finished item, User information to stored on database.
 
 Check Tasks:         CRUD, Create, Read, Update, & Delete
-                     Create= Front end website, Read = Home Page & Recipe, Update / Refresh = Webpage for nest Recipe, Delete = Logout
+                     Create= Front end website, Read = Home Page & Recipe, Update / Refresh Webpage for next Recipe, Delete = Old receipes
                      
                      MosCoW, 
                      Must Have = Code must work after Pipeline build and test to deploy.
-                     Should Have = Must have 4 pdf's on webpage of Chef and 3 recipes.
+                     Should Have = Must have 4 pages on web = Chef and 3 recipes.
                      Could Have = Choice of non-veg and veg recipes
-                     Won't Have Time = Add in video of meal being cooked to show Method and use of ingredients.
+                     Won't Have Time = Add in cooking utencils required for each recipe.
                      
-                     CI CD (Build, Test Deploy) Run on Jenkins
+Buld Tasks:         Set up VM Severs,
+                    Visual Studio
+                    CI CD (Build, Test Deploy) Run on Jenkins
                      
 
         
