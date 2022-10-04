@@ -54,7 +54,7 @@ Project is to link up a Celebrity Chef with one of three receipes for the user t
 * Must Have = Code must work after Pipeline build and test to deploy.
 * Should Have = Must have 4 pages on web = Chef and 3 recipes.
 * Could Have = Choice of non-veg and veg recipes
-* Won't Have Time = Add in cooking utencils required for each recip
+* Won't Have Time = Add in cooking utencils required for each recipe
                     
  ## Build Tasks:       
  						
